@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-linksnap-plugin",
+	"name": "LinkSnap",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "Generates simple previews for URLs, displaying an icon, title, and description.",
+	"author": "robinyk",
+	"authorUrl": "https://github.com/robinyk",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
